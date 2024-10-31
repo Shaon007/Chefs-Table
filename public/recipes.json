@@ -1,0 +1,56 @@
+[
+  {
+    "recipeId": 1,
+    "recipeName": "Spaghetti Carbonara",
+    "recipeImage": "https://i.pinimg.com/564x/00/22/b9/0022b9ae4cff08e1cdfd6eecc739107a.jpg",
+    "shortDescription": "Classic Italian pasta with creamy sauce, bacon, and Parmesan cheese.",
+    "ingredients": ["spaghetti", "bacon", "egg yolks", "Parmesan cheese", "black pepper"],
+    "preparingTime": "20 ",
+    "calories": 500
+  },
+  {
+    "recipeId": 2,
+    "recipeName": "Chicken Caesar Salad",
+    "recipeImage": "https://i.pinimg.com/564x/02/3f/9a/023f9a4a0a878b2fc45d5b3be71f7109.jpg",
+    "shortDescription": "A delicious Caesar salad topped with grilled chicken, croutons, and Caesar dressing.",
+    "ingredients": ["romaine lettuce", "grilled chicken", "croutons", "Caesar dressing", "Parmesan cheese"],
+    "preparingTime": "15 ",
+    "calories": 350
+  },
+  {
+    "recipeId": 3,
+    "recipeName": "Vegetable Stir-Fry",
+    "recipeImage": "https://i.pinimg.com/736x/58/ed/16/58ed1691f1c90eb62396d4423a02693b.jpg",
+    "shortDescription": "Quick and healthy stir-fry with a medley of fresh vegetables.",
+    "ingredients": ["broccoli", "carrot", "bell pepper", "snow peas", "soy sauce", "garlic"],
+    "preparingTime": "25 ",
+    "calories": 200
+  },
+  {
+    "recipeId": 4,
+    "recipeName": "Beef Tacos",
+    "recipeImage": "https://i.pinimg.com/736x/e1/84/74/e1847475ed65a9988c0e2a5de1853362.jpg",
+    "shortDescription": "Mexican-style tacos with seasoned beef, topped with fresh lettuce and cheese.",
+    "ingredients": ["ground beef", "taco seasoning", "tortillas", "lettuce", "cheese", "tomato"],
+    "preparingTime": "30 ",
+    "calories": 400
+  },
+  {
+    "recipeId": 5,
+    "recipeName": "Avocado Toast",
+    "recipeImage": "https://i.pinimg.com/564x/8e/27/01/8e27019ebefaa11499371564b2847015.jpg",
+    "shortDescription": "Simple yet tasty avocado spread on toasted bread, topped with seasonings.",
+    "ingredients": ["avocado", "bread", "salt", "pepper", "chili flakes", "lemon juice"],
+    "preparingTime": "10 ",
+    "calories": 250
+  },
+  {
+    "recipeId": 6,
+    "recipeName": "Blueberry Smoothie",
+    "recipeImage": "https://i.pinimg.com/564x/a3/b0/e4/a3b0e4fc879512e9c3d5b3bc442622a3.jpg",
+    "shortDescription": "A refreshing smoothie made with blueberries, yogurt, and a hint of honey.",
+    "ingredients": ["blueberries", "Greek yogurt", "milk", "honey", "banana"],
+    "preparingTime": "5 ",
+    "calories": 150
+  }
+]
